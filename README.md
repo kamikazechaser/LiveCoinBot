@@ -6,7 +6,6 @@ A :zap: Fast Crypto-Currency Bot For Fetching **Real-time** Charts, Market Price
 [![https://telegram.me/kamikazechaser](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-kamikazechaser-blue.svg)](https://telegram.me/kamikazechaser)
 [![Dependency Status](https://david-dm.org/kamikazechaser/LiveCoinBot.svg)](https://david-dm.org/kamikazechaser/LiveCoinBot)
 
-## BITFINEX IS TEMPORARILY OUT OF SERVICE
 
 ## Commands
 
