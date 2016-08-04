@@ -5,7 +5,7 @@ A :zap: Fast Crypto-Currency Bot For Fetching **Real-time** Charts, Market Price
 [![https://github.com/kamikazechaser/LiveCoinBot/blob/master/LICENSE.md](https://img.shields.io/badge/license-GNU%20GPLv3-lightgrey.svg)](https://github.com/kamikazechaser/LiveCoinBot/blob/master/LICENSE.md)
 [![https://telegram.me/LiveCoinBot](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-LiveCoin%20Bot-blue.svg)](https://telegram.me/LiveCoinBot)
 [![https://telegram.me/kamikazechaser](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-kamikazechaser-blue.svg)](https://telegram.me/kamikazechaser)
-[![Dependency Status](https://david-dm.org/kamikazechaser/LiveCoinBot.svg)](https://david-dm.org/kamikazechaser/LiveCoinBot.svg#info=Dependencies)
+[![Dependency Status](https://david-dm.org/kamikazechaser/LiveCoinBot)](https://david-dm.org/kamikazechaser/LiveCoinBot.svg#info=Dependencies)
 
 
 ## Commands
