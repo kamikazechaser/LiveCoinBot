@@ -1,0 +1,19 @@
+{
+  "name": "livecoinbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://kamikazechaser@bitbucket.org/kamikazechaser/livecoinbot.git"
+  },
+  "author": "Mohammed Sohail",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/kamikazechaser/livecoinbot#readme",
+  "dependencies": {
+    "telegram-node-bot": "^3.0.12"
+  }
+}
