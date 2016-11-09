@@ -1,4 +1,7 @@
 # LiveCoinBot
+
+### ⚠️not Maintained⚠️
+
 A :zap: Fast Crypto-Currency Bot For Fetching **Real-time** Charts, Market Prices and Network Statistics.
 
 [![https://github.com/kamikazechaser/LiveCoinBot/blob/master/LICENSE.md](https://img.shields.io/badge/license-GNU%20GPLv3-lightgrey.svg)](https://github.com/kamikazechaser/LiveCoinBot/blob/master/LICENSE.md)
