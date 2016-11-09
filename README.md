@@ -1,6 +1,6 @@
 # LiveCoinBot
 
-### ⚠️not Maintained⚠️
+### ⚠️Not Maintained⚠️
 
 A :zap: Fast Crypto-Currency Bot For Fetching **Real-time** Charts, Market Prices and Network Statistics.
 
